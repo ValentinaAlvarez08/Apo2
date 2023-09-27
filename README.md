@@ -4,10 +4,6 @@
 
 En este repositorio voy a guardar mis trabajos de algoritmos y programacion 2 
 
-## Empezando
-
-Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba. Consulte implementación para obtener notas sobre cómo implementar el proyecto en un sistema en vivo.
-
 ### Requisitos previos
 
 Tener en mi dispositivo eclipse, dentro de la aplicacion se puede instalar java
