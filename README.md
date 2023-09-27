@@ -25,4 +25,4 @@ java script
 * **Valentina Alvarez** 
 
 ## Expresiones de gratitud 
-A mis profes <3
+profes <3
