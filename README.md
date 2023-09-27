@@ -28,10 +28,5 @@ java script
 
 * **Valentina Alvarez** 
 
-
-## Licencia
-
-Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener más detalles.
-
 ## Expresiones de gratitud 
 A mis profes <3
