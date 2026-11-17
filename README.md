@@ -1,28 +1,20 @@
-![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png))
+# Apo2 · Algoritmos y Programación 2
 
-# Apo2 Manejo de Funciones 
+Repositorio con mis trabajos del curso **Algoritmos y Programación 2** (Universidad Mariana), enfocados en el manejo de funciones en **Java**.
 
-En este repositorio voy a guardar mis trabajos de algoritmos y programacion 2 
+## 🛠️ Tecnologías
 
-### Requisitos previos
+- Java
+- Eclipse IDE
+- `JOptionPane` para la entrada y salida de datos
 
-Tener en mi dispositivo eclipse, dentro de la aplicacion se puede instalar java
+## 📚 Qué aprendí
 
-## Ejecutando las pruebas
+- Diseño y uso de funciones (métodos) en Java.
+- Buenas prácticas y estilo de codificación.
 
-Hasta el momento estoy ejecutando mis programas con JOption
+## 👩‍💻 Autora
 
-### Y pruebas de estilo de codificación.
+**Valentina Alvarez** · [LinkedIn](https://www.linkedin.com/in/valentina-alvarez-17b16a243/)
 
-Estoy aprendiendo a programar desde 0
-
-## Versionado
-
-java script
-
-## Autores
-
-* **Valentina Alvarez** 
-
-## Expresiones de gratitud 
-profes <3
+Gracias a mis profes ❤️
